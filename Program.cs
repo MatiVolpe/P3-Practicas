@@ -1,4 +1,5 @@
 ﻿using Practica_1_TN;
+using System.Linq;
 
 //var ej1 = new Ejercicio1();
 //Console.WriteLine($"{ej1.GetType().Name}");
@@ -47,3 +48,8 @@
 //var ej10 = new Ejercicio10();
 //Console.WriteLine($"{ej10.GetType().Name}");
 //ej10.Ejecutar();
+
+var Lej1 = new LINQEj1();
+Console.WriteLine($"{Lej1.GetType().Name}");
+Lej1.Ejecutar();
+

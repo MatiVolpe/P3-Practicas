@@ -1,18 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\matia\\source\\repos\\Practica 1 TN\\",
+  "WorkspaceRootPath": "C:\\Users\\matia\\source\\repos\\P3-Practicas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{742D6802-D255-45D7-A9F8-ADC6CE4D1C3A}|Practica 1 TN.csproj|c:\\users\\matia\\source\\repos\\practica 1 tn\\ejercicio6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{742D6802-D255-45D7-A9F8-ADC6CE4D1C3A}|Practica 1 TN.csproj|solutionrelative:ejercicio6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{742D6802-D255-45D7-A9F8-ADC6CE4D1C3A}|Practica 1 TN.csproj|c:\\users\\matia\\source\\repos\\practica 1 tn\\ejercicio5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{742D6802-D255-45D7-A9F8-ADC6CE4D1C3A}|Practica 1 TN.csproj|solutionrelative:ejercicio5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{742D6802-D255-45D7-A9F8-ADC6CE4D1C3A}|Practica 1 TN.csproj|c:\\users\\matia\\source\\repos\\practica 1 tn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{742D6802-D255-45D7-A9F8-ADC6CE4D1C3A}|Practica 1 TN.csproj|c:\\users\\matia\\source\\repos\\p3-practicas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{742D6802-D255-45D7-A9F8-ADC6CE4D1C3A}|Practica 1 TN.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{742D6802-D255-45D7-A9F8-ADC6CE4D1C3A}|Practica 1 TN.csproj|c:\\users\\matia\\source\\repos\\p3-practicas\\linqej1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{742D6802-D255-45D7-A9F8-ADC6CE4D1C3A}|Practica 1 TN.csproj|solutionrelative:linqej1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,44 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Ejercicio5.cs",
-              "DocumentMoniker": "C:\\Users\\matia\\source\\repos\\Practica 1 TN\\Ejercicio5.cs",
-              "RelativeDocumentMoniker": "Ejercicio5.cs",
-              "ToolTip": "C:\\Users\\matia\\source\\repos\\Practica 1 TN\\Ejercicio5.cs",
-              "RelativeToolTip": "Ejercicio5.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAA1wAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T00:49:26.775Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Ejercicio6.cs",
-              "DocumentMoniker": "C:\\Users\\matia\\source\\repos\\Practica 1 TN\\Ejercicio6.cs",
-              "RelativeDocumentMoniker": "Ejercicio6.cs",
-              "ToolTip": "C:\\Users\\matia\\source\\repos\\Practica 1 TN\\Ejercicio6.cs",
-              "RelativeToolTip": "Ejercicio6.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCgAAABKAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matia\\source\\repos\\P3-Practicas\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\matia\\source\\repos\\P3-Practicas\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T00:43:05.59Z",
+              "WhenOpened": "2024-04-11T01:04:42.398Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\matia\\source\\repos\\Practica 1 TN\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\matia\\source\\repos\\Practica 1 TN\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "LINQEj1.cs",
+              "DocumentMoniker": "C:\\Users\\matia\\source\\repos\\P3-Practicas\\LINQEj1.cs",
+              "RelativeDocumentMoniker": "LINQEj1.cs",
+              "ToolTip": "C:\\Users\\matia\\source\\repos\\P3-Practicas\\LINQEj1.cs",
+              "RelativeToolTip": "LINQEj1.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCUAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T00:59:56.429Z"
+              "WhenOpened": "2024-04-11T00:57:19.394Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -12,3 +12,18 @@ C:\Users\matia\source\repos\Practica 1 TN\obj\Debug\net8.0\refint\Practica 1 TN.
 C:\Users\matia\source\repos\Practica 1 TN\obj\Debug\net8.0\Practica 1 TN.pdb
 C:\Users\matia\source\repos\Practica 1 TN\obj\Debug\net8.0\Practica 1 TN.genruntimeconfig.cache
 C:\Users\matia\source\repos\Practica 1 TN\obj\Debug\net8.0\ref\Practica 1 TN.dll
+C:\Users\matia\source\repos\P3-Practicas\bin\Debug\net8.0\Practica 1 TN.exe
+C:\Users\matia\source\repos\P3-Practicas\bin\Debug\net8.0\Practica 1 TN.deps.json
+C:\Users\matia\source\repos\P3-Practicas\bin\Debug\net8.0\Practica 1 TN.runtimeconfig.json
+C:\Users\matia\source\repos\P3-Practicas\bin\Debug\net8.0\Practica 1 TN.dll
+C:\Users\matia\source\repos\P3-Practicas\bin\Debug\net8.0\Practica 1 TN.pdb
+C:\Users\matia\source\repos\P3-Practicas\obj\Debug\net8.0\Practica 1 TN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matia\source\repos\P3-Practicas\obj\Debug\net8.0\Practica 1 TN.AssemblyInfoInputs.cache
+C:\Users\matia\source\repos\P3-Practicas\obj\Debug\net8.0\Practica 1 TN.AssemblyInfo.cs
+C:\Users\matia\source\repos\P3-Practicas\obj\Debug\net8.0\Practica 1 TN.csproj.CoreCompileInputs.cache
+C:\Users\matia\source\repos\P3-Practicas\obj\Debug\net8.0\Practica 1 TN.sourcelink.json
+C:\Users\matia\source\repos\P3-Practicas\obj\Debug\net8.0\Practica 1 TN.dll
+C:\Users\matia\source\repos\P3-Practicas\obj\Debug\net8.0\refint\Practica 1 TN.dll
+C:\Users\matia\source\repos\P3-Practicas\obj\Debug\net8.0\Practica 1 TN.pdb
+C:\Users\matia\source\repos\P3-Practicas\obj\Debug\net8.0\Practica 1 TN.genruntimeconfig.cache
+C:\Users\matia\source\repos\P3-Practicas\obj\Debug\net8.0\ref\Practica 1 TN.dll

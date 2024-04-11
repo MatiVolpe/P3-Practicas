@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\matia\\source\\repos\\Practica 1 TN\\Practica 1 TN.csproj",
+      "projectUniqueName": "C:\\Users\\matia\\source\\repos\\P3-Practicas\\Practica 1 TN.csproj",
       "projectName": "Practica 1 TN",
-      "projectPath": "C:\\Users\\matia\\source\\repos\\Practica 1 TN\\Practica 1 TN.csproj",
+      "projectPath": "C:\\Users\\matia\\source\\repos\\P3-Practicas\\Practica 1 TN.csproj",
       "packagesPath": "C:\\Users\\matia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\matia\\source\\repos\\Practica 1 TN\\obj\\",
+      "outputPath": "C:\\Users\\matia\\source\\repos\\P3-Practicas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\matia\\AppData\\Roaming\\NuGet\\NuGet.Config",
